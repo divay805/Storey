@@ -1,2 +1,2 @@
 HEllo Here is my git file we are here to file the changes in the git Lets keep the track of our changes in the file with the help of git init
-Hello buddy My name is 
+Hello buddy My name is divay aggarwal 
